@@ -1,0 +1,277 @@
+{
+    "Macetas": [
+        {
+            "Name" : "Piramidal",
+            "ID" : 1,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 1400,
+                "P" : 1700,
+                "PD" : 1900
+            },
+            "Measures" : {
+                "Largo" : 26,
+                "Ancho" : 26,
+                "Alto": 60
+            },
+            "Images" : {
+                "NP" : "images/desc-images/piramidal-np.png",
+                "P" : "images/desc-images/piramidal-p.png",
+                "PD" : "images/desc-images/piramidal-pd.png"  
+            }
+        },
+
+
+        
+        {
+            "Name" : "Piramidal con Borde 1",
+            "ID" : 2,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 2000,
+                "P" : 2200,
+                "PD" : 2400 
+            },
+            "Measures" : {
+                "Largo" : 36,
+                "Ancho" : 36,
+                "Alto": 66
+            },
+            "Images" : {
+                "NP" : "images/desc-images/piramidalBorde1-np.png",
+                "P" : "images/desc-images/piramidalBorde1-p.png",
+                "PD" : "images/desc-images/piramidalBorde1-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Piramidal con Borde 2",
+            "ID" : 3,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 2200,
+                "P" : 2500,
+                "PD" : 2800 
+            },
+            "Measures" : {
+                "Largo" : 43,
+                "Ancho" : 43,
+                "Alto": 73
+            },
+            "Images" : {
+                "NP" : "images/desc-images/piramidalBorde2-np.png",
+                "P" : "images/desc-images/piramidalBorde2-p.png",
+                "PD" : "images/desc-images/piramidalBorde2-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Cubo Piramidal 1",
+            "ID" : 4,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 700,
+                "P" : 850,
+                "PD" : 980 
+            },
+            "Measures" : {
+                "Largo" : 24,
+                "Ancho" : 24,
+                "Alto": 27
+            },
+            "Images" : {
+                "NP" : "images/desc-images/cuboPiramidal1-np.png",
+                "P" : "images/desc-images/cuboPiramidal1-p.png",
+                "PD" : "images/desc-images/cuboPiramidal1-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Cubo Piramidal 2",
+            "ID" : 5,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 850,
+                "P" : 980,
+                "PD" : 1100
+            },
+            "Measures" : {
+                "Largo" : 32,
+                "Ancho" : 32,
+                "Alto": 27
+            },
+            "Images" : {
+                "NP" : "images/desc-images/cuboPiramidal2-np.png",
+                "P" : "images/desc-images/cuboPiramidal2-p.png",
+                "PD" : "images/desc-images/cuboPiramidal2-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Cubo Piramidal 3",
+            "ID" : 6,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 1100,
+                "P" : 1300,
+                "PD" : 1550
+            },
+            "Measures" : {
+                "Largo" : 37,
+                "Ancho" : 37,
+                "Alto": 35
+            },
+            "Images" : {
+                "NP" : "images/desc-images/cuboPiramidal3-np.png",
+                "P" : "images/desc-images/cuboPiramidal3-p.png",
+                "PD" : "images/desc-images/cuboPiramidal3-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Cuadrada Mediana",
+            "ID" : 7,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 1550,
+                "P" : 1750,
+                "PD" : 1950
+            },
+            "Measures" : {
+                "Largo" : 37,
+                "Ancho" : 37,
+                "Alto": 37
+            },
+            "Images" : {
+                "NP" : "images/desc-images/cuadradaMediana-np.png",
+                "P" : "images/desc-images/cuadradaMediana-p.png",
+                "PD" : "images/desc-images/cuadradaMediana-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Cuadrada Grande",
+            "ID" : 8,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 2350,
+                "P" : 2850,
+                "PD" : 3100 
+            },
+            "Measures" : {
+                "Largo" : 45,
+                "Ancho" : 45,
+                "Alto": 45
+            },
+            "Images" : {
+                "NP" : "images/desc-images/cuadradaGrande-np.png",
+                "P" : "images/desc-images/cuadradaGrande-p.png",
+                "PD" : "images/desc-images/cuadradaGrande-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Jardinera Mediana",
+            "ID" : 9,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 1050,
+                "P" : 1200,
+                "PD" : 1450
+            },
+            "Measures" : {
+                "Largo" : 56,
+                "Ancho" : 23,
+                "Alto": 21
+            },
+            "Images" : {
+                "NP" : "images/desc-images/jardineraMediana-np.png",
+                "P" : "images/desc-images/jardineraMediana-p.png",
+                "PD" : "images/desc-images/jardineraMediana-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Jardinera Grande",
+            "ID" : 10,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 1500,
+                "P" : 1700,
+                "PD" : 1950
+            },
+            "Measures" : {
+                "Largo" : 70,
+                "Ancho" : 30,
+                "Alto": 30
+            },
+            "Images" : {
+                "NP" : "images/desc-images/jardineraGrande-np.png",
+                "P" : "images/desc-images/jardineraGrande-p.png",
+                "PD" : "images/desc-images/jardineraGrande-pd.png"  
+            }
+        },
+        
+
+
+        {
+            "Name" : "Cílindrica",
+            "ID" : 11,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 1450,
+                "P" : 1700,
+                "PD" : 1900
+            },
+            "Measures" : {
+                "Largo" : 35,
+                "Ancho" : 35,
+                "Alto": 40
+            },
+            "Images" : {
+                "NP" : "images/desc-images/cilindrica-np.png",
+                "P" : "images/desc-images/cilindrica-p.png",
+                "PD" : "images/desc-images/cilindrica-pd.png"  
+            }
+        },
+
+
+
+        {
+            "Name" : "Piramidal Gigante",
+            "ID" : 12,
+            "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi doloribus quas odio voluptatem soluta quaerat sint iste dolorem, obcaecati nihil eos nulla maiores nostrum officia! Nam iure quisquam nostrum doloribus.",
+            "Price" : {
+                "NP" : 0,
+                "P" : 0,
+                "PD" : 0
+            },
+            "Measures" : {
+                "Largo" : 90,
+                "Ancho" : 90,
+                "Alto": 104
+            },
+            "Images" : {
+                "NP" : "images/desc-images/piramidalGigante-np.png",
+                "P" : "images/desc-images/piramidalGigante-p.png",
+                "PD" : "images/desc-images/piramidalGigante-pd.png"  
+            }
+        }  
+    ]
+}

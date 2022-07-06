@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+#RewriteRule ^([a-z]+)/?$ $1.php [NC]
+
+RewriteCond %{HTTP_HOST} ^macetasmym.github.io/macetas/ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.macetasmym.github.io/macetas/ [NC]
+RewriteRule ^(.*)$ https://macetasmym.github.io/macetas/$1 [L,R=301,NC]
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html
+#RewriteRule ^([a-z]+)/?$ $1.html [NC]
+
+</IfModule>
