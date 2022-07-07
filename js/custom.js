@@ -42,3 +42,9 @@ function myMap() {
     };
     var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
 }
+
+// cache 
+
+caches.open("static files").then(cache =>{
+    cache.addAll(["index.html","css/style.css","products.html","menu.html","js/dataLoader.js","js/custom.js","css/responsive.css","js/bootstrap.js"])
+});
