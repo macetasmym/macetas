@@ -941,7 +941,8 @@ a:focus {
   margin-top: 0px;
   outline: none;
   background-color: beige;
-  margin-top: 20px
+  margin-top: 20px;
+  min-height: 500px;
 }
 .submit-btn:focus {
   outline: none;
