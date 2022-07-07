@@ -74,7 +74,9 @@ fetch("data/data.json")
                 });
             }
             ///index.html
-            if (window.location.pathname == ("/macetas/index.html") || ("/macetas2-v1.2/") || ("/macetas/menu.html")) {
+            if (window.location.pathname == "/macetas2/products.html") {
+                1+1;
+            } else if (window.location.pathname == ("/macetas/index.html") || ("/macetas2-v1.2/") || ("/macetas/menu.html")) {
                 var arr = [0,3,11,1,6,7,2,4,5,9,8,10]
                 var HTMLOptions = optionClass.item(i).firstElementChild;
                 HTMLOptions.innerHTML = `$${data.Macetas[arr[i]].Price.NP - 0.01} - $${data.Macetas[arr[i]].Price.PD - 0.01}`;
