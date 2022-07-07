@@ -73,7 +73,6 @@ fetch("data/data.json")
                 });
             }
             ///index.html
-            console.log(window.location.pathname);
             if (window.location.pathname == "/macetas/index.html") {
                 var arr = [0,3,11,1,6,7,2,4,5,9,8,10]
                 var HTMLOptions = optionClass.item(i).firstElementChild;
