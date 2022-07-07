@@ -51,6 +51,7 @@ fetch("data/data.json")
                 prodArea.innerHTML = HTMLContent; 
                 let designSelector = document.getElementById("prod-select");
                 designSelector.addEventListener('change', (event) => {
+                    scroll(0,0);
                     var selectedDesign = event.target.value;
                     var prodPrice = document.querySelector(".prod-price");
                     var prodImage = document.querySelector(".img-box2");
