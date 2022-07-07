@@ -74,7 +74,7 @@ fetch("data/data.json")
             }
             ///index.html
             console.log(window.location.pathname);
-            if (window.location.pathname == "/macetasmym.github.io/macetas/index.html") {
+            if (window.location.pathname == "/macetas/index.html") {
                 var arr = [0,3,11,1,6,7,2,4,5,9,8,10]
                 var HTMLOptions = optionClass.item(i).firstElementChild;
                 HTMLOptions.innerHTML = `$${data.Macetas[arr[i]].Price.NP - 0.01} - $${data.Macetas[arr[i]].Price.PD - 0.01}`;
@@ -82,7 +82,7 @@ fetch("data/data.json")
                 HTMLDescription.innerHTML = `${data.Macetas[arr[i]].Description}`;
             }
             //menu.html
-            if (window.location.pathname == "/macetasmym.github.io/macetas/menu.html") {
+            if (window.location.pathname == "/macetas/menu.html") {
                 var arr = [0,3,11,1,6,7,2,4,5,9,8,10]
                 var HTMLOptions = optionClass.item(i).firstElementChild;
                 HTMLOptions.innerHTML = `$${data.Macetas[arr[i]].Price.NP - 0.01} - $${data.Macetas[arr[i]].Price.PD - 0.01}`;
